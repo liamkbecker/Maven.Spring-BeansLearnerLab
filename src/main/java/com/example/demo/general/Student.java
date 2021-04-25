@@ -1,3 +1,5 @@
+package com.example.demo.general;
+
 public class Student extends Person implements Learner {
 
     private double totalStudyTime;

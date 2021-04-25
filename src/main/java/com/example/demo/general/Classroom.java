@@ -1,3 +1,5 @@
+package com.example.demo.general;
+
 public class Classroom {
 
     private Students students;

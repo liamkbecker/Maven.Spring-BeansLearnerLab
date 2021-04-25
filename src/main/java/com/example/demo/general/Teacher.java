@@ -1,3 +1,5 @@
+package com.example.demo.general;
+
 public interface Teacher {
 
     public void teach(Learner learner, double numberOfHours);

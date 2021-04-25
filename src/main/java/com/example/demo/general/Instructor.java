@@ -1,3 +1,5 @@
+package com.example.demo.general;
+
 import java.util.stream.StreamSupport;
 
 public class Instructor extends Person implements Teacher {

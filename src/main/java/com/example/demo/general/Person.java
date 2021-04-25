@@ -1,3 +1,5 @@
+package com.example.demo.general;
+
 public class Person {
 
     private final long id;
